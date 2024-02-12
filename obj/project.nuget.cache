@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "e/NxJr7eFvYBQu1zAew5y0O1OXY9w7Z3Uj0uWrHBCEXomI2t2PyXDWv2V17oE7qZwmfTHtXPR/yQ2gzEb3FIng==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\belov\\Desktop\\программирование\\AnimeApp\\AnimeApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\belov\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
